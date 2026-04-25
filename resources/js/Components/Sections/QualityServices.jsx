@@ -91,7 +91,7 @@ export default function QualityServices() {
                 </div>
 
                 {/* --- FOOTER SEKSYEN --- */}
-                <div className="mt-16 flex flex-col md:flex-row items-center justify-between border-t border-gray-200/60 pt-8">
+                <div className="mt-16 flex flex-col  md:flex-row items-center justify-between  border-t border-gray-200/60 pt-8">
                     <p className="text-[#282560] font-bold mb-4 md:mb-0">
                         We help you live your life in full motion.
                     </p>
