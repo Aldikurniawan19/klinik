@@ -10,6 +10,7 @@ import AboutDoctor from "../Components/Sections/AboutDoctor";
 import PricingPlans from "../Components/Sections/PricingPlans";
 import Testimonials from "../Components/Sections/Testimonials";
 import ContactUs from "../Components/Sections/ContactUs";
+import Footer from "../Components/Sections/Footer";
 
 export default function Welcome() {
     return (
@@ -26,6 +27,7 @@ export default function Welcome() {
             <PricingPlans />
             <Testimonials />
             <ContactUs />
+            <Footer />
         </MainLayout>
     );
 }
